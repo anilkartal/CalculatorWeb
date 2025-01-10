@@ -1,6 +1,6 @@
 # CalculatorWeb
 Test Otomasyon Sistemi
 
-src Altında proje bulunmaktadır.
+Proje src Altında bulunmaktadır.
 
 Restore Edilip Rebuild Yapıldığında çalıştırılabilir.
